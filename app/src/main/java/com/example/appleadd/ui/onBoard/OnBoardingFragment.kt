@@ -6,6 +6,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.navigation.fragment.findNavController
+import com.example.appleadd.R
 import com.example.appleadd.databinding.FragmentOnBoardingBinding
 import com.example.appleadd.model.OnBoard
 import com.example.appleadd.local.Pref
@@ -36,7 +37,7 @@ class OnBoardingFragment : Fragment() {
 
     private fun onClick(onBoard: OnBoard) {
         pref.saveSeen()
-        findNavController().navigateUp()
+        findNavController().navigate(R.id.navigation_home)
     }
 
 
