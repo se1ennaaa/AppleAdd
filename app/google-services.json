@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1012052215105",
+    "project_id": "appleadd-d599d",
+    "storage_bucket": "appleadd-d599d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012052215105:android:dacc12921c49e7a9850dc0",
+        "android_client_info": {
+          "package_name": "com.example.appleadd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012052215105-mr8sjl51tgmmajj9vgnd61a83tvpu6oa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI777Xc0Z4PuKE0rOf8wMFaAlSEiKIllM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012052215105-mr8sjl51tgmmajj9vgnd61a83tvpu6oa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
